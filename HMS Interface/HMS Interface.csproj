@@ -1,0 +1,752 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4F609AA9-5805-45EF-A76E-601C161CCDF2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HMS_Interface</RootNamespace>
+    <AssemblyName>HMS Interface</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AlphaBlendTextBox">
+      <HintPath>..\..\..\..\3- Practise Database Programs\HMS Implementation\alphablendtextbox\AlphaBlendTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.WinForms.v12.12.0.0.1\lib\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminAdd.Designer.cs">
+      <DependentUpon>AdminAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminProfile .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminProfile .Designer.cs">
+      <DependentUpon>AdminProfile .cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminResetPassword.Designer.cs">
+      <DependentUpon>AdminResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminUpdate.Designer.cs">
+      <DependentUpon>AdminUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminView.Designer.cs">
+      <DependentUpon>AdminView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor.Designer.cs">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor_Appointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor_Appointments.Designer.cs">
+      <DependentUpon>Doctor_Appointments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor_Checkup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor_Checkup.Designer.cs">
+      <DependentUpon>Doctor_Checkup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor_History.Designer.cs">
+      <DependentUpon>Doctor_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor_precheckup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor_precheckup.Designer.cs">
+      <DependentUpon>Doctor_precheckup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HMSInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HMSInterface.Designer.cs">
+      <DependentUpon>HMSInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminNrsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminNrsView.Designer.cs">
+      <DependentUpon>AdminNrsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRcptView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminRcptView.Designer.cs">
+      <DependentUpon>AdminRcptView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRcptAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminRcptAdd.Designer.cs">
+      <DependentUpon>AdminRcptAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRcptUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminRcptUpdate.Designer.cs">
+      <DependentUpon>AdminRcptUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLabortryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLabortryView.Designer.cs">
+      <DependentUpon>AdminLabortryView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLabortryAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLabortryAdd.Designer.cs">
+      <DependentUpon>AdminLabortryAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDocAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDocAdd.Designer.cs">
+      <DependentUpon>AdminDocAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLabortryUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLabortryUpdate.Designer.cs">
+      <DependentUpon>AdminLabortryUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPhrmcyView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPhrmcyView.Designer.cs">
+      <DependentUpon>AdminPhrmcyView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPhrmcyAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPhrmcyAdd.Designer.cs">
+      <DependentUpon>AdminPhrmcyAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPhrmcyUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPhrmcyUpdate.Designer.cs">
+      <DependentUpon>AdminPhrmcyUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPatientView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPatientView.Designer.cs">
+      <DependentUpon>AdminPatientView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPatientAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPatientAdd.Designer.cs">
+      <DependentUpon>AdminPatientAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPatientUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPatientUpdate.Designer.cs">
+      <DependentUpon>AdminPatientUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDocView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDocView.Designer.cs">
+      <DependentUpon>AdminDocView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminResetPasswordInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminResetPasswordInterface.Designer.cs">
+      <DependentUpon>AdminResetPasswordInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDocRstPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDocRstPassword.Designer.cs">
+      <DependentUpon>AdminDocRstPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminNrsResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminNrsResetPassword.Designer.cs">
+      <DependentUpon>AdminNrsResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRcptResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminRcptResetPassword.Designer.cs">
+      <DependentUpon>AdminRcptResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLabResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLabResetPassword.Designer.cs">
+      <DependentUpon>AdminLabResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPharmResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPharmResetPassword.Designer.cs">
+      <DependentUpon>AdminPharmResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDocUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDocUpdate.Designer.cs">
+      <DependentUpon>AdminDocUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminNrsAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminNrsAdd.Designer.cs">
+      <DependentUpon>AdminNrsAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminNrsUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminNrsUpdate.Designer.cs">
+      <DependentUpon>AdminNrsUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HMSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Lab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab.designer.cs">
+      <DependentUpon>Lab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab_1.designer.cs">
+      <DependentUpon>Lab_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab_2.designer.cs">
+      <DependentUpon>Lab_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab_3.designer.cs">
+      <DependentUpon>Lab_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nurse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nurse.designer.cs">
+      <DependentUpon>Nurse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nurse_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nurse_1.designer.cs">
+      <DependentUpon>Nurse_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nurse_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nurse_2.designer.cs">
+      <DependentUpon>Nurse_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy.designer.cs">
+      <DependentUpon>Pharmacy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy_1.designer.cs">
+      <DependentUpon>Pharmacy_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy_2.designer.cs">
+      <DependentUpon>Pharmacy_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy_3.designer.cs">
+      <DependentUpon>Pharmacy_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy_4.designer.cs">
+      <DependentUpon>Pharmacy_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy_5.designer.cs">
+      <DependentUpon>Pharmacy_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receptionist.designer.cs">
+      <DependentUpon>Receptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Receptionist_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receptionist_1.designer.cs">
+      <DependentUpon>Receptionist_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Receptionist_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receptionist_2.designer.cs">
+      <DependentUpon>Receptionist_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Receptionist_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receptionist_3.designer.cs">
+      <DependentUpon>Receptionist_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Receptionist_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receptionist_4.designer.cs">
+      <DependentUpon>Receptionist_4.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminAdd.resx">
+      <DependentUpon>AdminAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminProfile .resx">
+      <DependentUpon>AdminProfile .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminResetPassword.resx">
+      <DependentUpon>AdminResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUpdate.resx">
+      <DependentUpon>AdminUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminView.resx">
+      <DependentUpon>AdminView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor.resx">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor_Appointments.resx">
+      <DependentUpon>Doctor_Appointments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor_Checkup.resx">
+      <DependentUpon>Doctor_Checkup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor_History.resx">
+      <DependentUpon>Doctor_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor_precheckup.resx">
+      <DependentUpon>Doctor_precheckup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HMSInterface.resx">
+      <DependentUpon>HMSInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminNrsView.resx">
+      <DependentUpon>AdminNrsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminRcptView.resx">
+      <DependentUpon>AdminRcptView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminRcptAdd.resx">
+      <DependentUpon>AdminRcptAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminRcptUpdate.resx">
+      <DependentUpon>AdminRcptUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLabortryView.resx">
+      <DependentUpon>AdminLabortryView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLabortryAdd.resx">
+      <DependentUpon>AdminLabortryAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDocAdd.resx">
+      <DependentUpon>AdminDocAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLabortryUpdate.resx">
+      <DependentUpon>AdminLabortryUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPhrmcyView.resx">
+      <DependentUpon>AdminPhrmcyView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPhrmcyAdd.resx">
+      <DependentUpon>AdminPhrmcyAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPhrmcyUpdate.resx">
+      <DependentUpon>AdminPhrmcyUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPatientView.resx">
+      <DependentUpon>AdminPatientView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPatientAdd.resx">
+      <DependentUpon>AdminPatientAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPatientUpdate.resx">
+      <DependentUpon>AdminPatientUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDocView.resx">
+      <DependentUpon>AdminDocView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminResetPasswordInterface.resx">
+      <DependentUpon>AdminResetPasswordInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDocRstPassword.resx">
+      <DependentUpon>AdminDocRstPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminNrsResetPassword.resx">
+      <DependentUpon>AdminNrsResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminRcptResetPassword.resx">
+      <DependentUpon>AdminRcptResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLabResetPassword.resx">
+      <DependentUpon>AdminLabResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPharmResetPassword.resx">
+      <DependentUpon>AdminPharmResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDocUpdate.resx">
+      <DependentUpon>AdminDocUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminNrsAdd.resx">
+      <DependentUpon>AdminNrsAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminNrsUpdate.resx">
+      <DependentUpon>AdminNrsUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab.resx">
+      <DependentUpon>Lab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab_1.resx">
+      <DependentUpon>Lab_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab_2.resx">
+      <DependentUpon>Lab_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab_3.resx">
+      <DependentUpon>Lab_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nurse.resx">
+      <DependentUpon>Nurse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nurse_1.resx">
+      <DependentUpon>Nurse_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nurse_2.resx">
+      <DependentUpon>Nurse_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy.resx">
+      <DependentUpon>Pharmacy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy_1.resx">
+      <DependentUpon>Pharmacy_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy_2.resx">
+      <DependentUpon>Pharmacy_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy_3.resx">
+      <DependentUpon>Pharmacy_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy_4.resx">
+      <DependentUpon>Pharmacy_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy_5.resx">
+      <DependentUpon>Pharmacy_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Receptionist.resx">
+      <DependentUpon>Receptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receptionist_1.resx">
+      <DependentUpon>Receptionist_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receptionist_2.resx">
+      <DependentUpon>Receptionist_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receptionist_3.resx">
+      <DependentUpon>Receptionist_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receptionist_4.resx">
+      <DependentUpon>Receptionist_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="HMSDataSet.xsc">
+      <DependentUpon>HMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HMSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMSDataSet.xss">
+      <DependentUpon>HMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exitbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View_Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View_Logo.v1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View_Logo.v11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View_logo-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_icon-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctor1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reception.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pharmacy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctor1-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backbtn1-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backbtn2-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reception1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lab1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pharmacy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exitbtn-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lab2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pharmacy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close button final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background pic.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kissclipart-password-icon-png-clipart-computer-icons-password-effae01cc669abc3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

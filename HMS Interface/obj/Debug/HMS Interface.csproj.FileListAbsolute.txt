@@ -1,0 +1,394 @@
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe.config
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\HMS Interface.pdb
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminProfile.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form1.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form10.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form11.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form12.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form13.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form14.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form16.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form17.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form18.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form19.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form2.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form20.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form22.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form23.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form24.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form25.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form3.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form4.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form5.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form7.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form8.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Properties.Resources.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.GenerateResource.cache
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.CoreCompileInputs.cache
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS Interface.exe
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS Interface.pdb
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csprojAssemblyReference.cache
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\AlphaBlendTextBox.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.CopyComplete
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form27.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form28.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form29.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form31.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form32.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form33.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form34.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form35.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form36.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form37.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form38.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form39.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form40.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form41.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form42.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\RdlCompile.cache
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\RdlCompile.compiled
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Report.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.ResolveComReference.cache
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\AxShockwaveFlashObjects.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.Shared.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\ShockwaveFlashObjects.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\stdole.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\1- HMS Project 1\HMS Desktop Application\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.ResolveComReference.cache
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminProfile.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_Appointments.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_Checkup.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_History.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_precheckup.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form1.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsView.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsDel.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptView.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptAdd.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptUpdate.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptDel.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryView.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryAdd.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryDel.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocAdd.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryUpdate.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyView.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyAdd.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyDel.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyUpdate.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientView.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientAdd.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientUpdate.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocView.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientDel.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminResetPasswordInterface.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocRstPassword.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsResetPassword.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptResetPassword.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabResetPassword.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPharmResetPassword.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocUpdate.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocDel.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsAdd.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsUpdate.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_1.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_2.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_3.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse_1.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse_2.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_1.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_2.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_3.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_4.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_5.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Properties.Resources.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_1.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_2.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_3.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_4.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.GenerateResource.cache
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe.config
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\bin\Debug\HMS Interface.pdb
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Login.resources
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.CopyComplete
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.exe
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.pdb
+C:\Users\Hadia\Downloads\maham part project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csprojAssemblyReference.cache
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe.config
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\HMS Interface.pdb
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\stdole.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csprojAssemblyReference.cache
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.ResolveComReference.cache
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminAdd.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminProfile.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminUpdate.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminView.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_Appointments.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_Checkup.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_History.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_precheckup.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form1.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsView.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsDel.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptView.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptAdd.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptUpdate.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptDel.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryView.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryAdd.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryDel.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocAdd.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryUpdate.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyView.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyAdd.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyDel.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyUpdate.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientView.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientAdd.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientUpdate.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocView.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientDel.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminResetPasswordInterface.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocRstPassword.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsResetPassword.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptResetPassword.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabResetPassword.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPharmResetPassword.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocUpdate.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocDel.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsAdd.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsUpdate.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_1.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_2.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_3.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Login.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse_1.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse_2.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_1.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_2.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_3.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_4.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_5.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Properties.Resources.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_1.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_2.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_3.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_4.resources
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.GenerateResource.cache
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.CoreCompileInputs.cache
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.CopyComplete
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS Interface.exe
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS Interface.pdb
+C:\Users\SCS\Downloads\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminResetPassword.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csprojAssemblyReference.cache
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.ResolveComReference.cache
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminAdd.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminProfile.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminResetPassword.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminUpdate.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminView.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_Appointments.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_Checkup.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_History.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_precheckup.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form1.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsView.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptView.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptAdd.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptUpdate.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryView.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryAdd.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocAdd.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryUpdate.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyView.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyAdd.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyUpdate.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientView.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientAdd.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientUpdate.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocView.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminResetPasswordInterface.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocRstPassword.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsResetPassword.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptResetPassword.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabResetPassword.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPharmResetPassword.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocUpdate.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsAdd.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsUpdate.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_1.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_2.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_3.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Login.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse_1.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse_2.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_1.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_2.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_3.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_4.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_5.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Properties.Resources.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_1.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_2.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_3.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_4.resources
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.GenerateResource.cache
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.exe
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.pdb
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe.config
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\HMS Interface.pdb
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\stdole.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hadia\Downloads\Final project\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.CopyComplete
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe.config
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\HMS Interface.exe
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\HMS Interface.pdb
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\AxShockwaveFlashObjects.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.Shared.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\ShockwaveFlashObjects.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\stdole.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csprojAssemblyReference.cache
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.ResolveComReference.cache
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminAdd.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminProfile.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminResetPassword.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminUpdate.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminView.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_Appointments.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_Checkup.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_History.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Doctor_precheckup.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Form1.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsView.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptView.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptAdd.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptUpdate.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryView.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryAdd.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocAdd.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabortryUpdate.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyView.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyAdd.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPhrmcyUpdate.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientView.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientAdd.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPatientUpdate.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocView.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminResetPasswordInterface.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocRstPassword.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsResetPassword.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminRcptResetPassword.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminLabResetPassword.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminPharmResetPassword.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminDocUpdate.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsAdd.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.AdminNrsUpdate.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_1.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_2.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Lab_3.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Login.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse_1.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Nurse_2.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_1.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_2.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_3.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_4.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Pharmacy_5.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Properties.Resources.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_1.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_2.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_3.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS_Interface.Receptionist_4.resources
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.GenerateResource.cache
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.CoreCompileInputs.cache
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS Interface.csproj.CopyComplete
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS Interface.exe
+D:\4th Semester Books\1 Database Systems\2 DataBase Lab\HMS Interface\HMS Interface\obj\Debug\HMS Interface.pdb
